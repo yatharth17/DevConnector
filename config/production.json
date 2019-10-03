@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://Yath_17:frontech@mern-tbcbt.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"d3352e5a4ba36b4f9200",
+    "githubSecret":"2237442b9d8323fb440b4a7970b63c51f1c70ab7"
+  }
+  
